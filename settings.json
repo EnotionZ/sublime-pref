@@ -1,0 +1,16 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Oblivion/Oblivion - Soda Dark.tmTheme",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"trim_trailing_white_space_on_save": true
+}
