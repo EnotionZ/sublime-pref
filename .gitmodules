@@ -1,3 +1,6 @@
 [submodule "Packages/Oblivion"]
 	path = Packages/Oblivion
 	url = https://github.com/jbrooksuk/Oblivion.git
+[submodule "Packages/sublime_alignment"]
+	path = Packages/sublime_alignment
+	url = git@github.com:wbond/sublime_alignment.git
