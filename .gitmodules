@@ -4,3 +4,6 @@
 [submodule "Packages/sublime_alignment"]
 	path = Packages/sublime_alignment
 	url = git@github.com:wbond/sublime_alignment.git
+[submodule "Packages/Stino"]
+	path = Packages/Stino
+	url = https://github.com/Robot-Will/Stino.git
